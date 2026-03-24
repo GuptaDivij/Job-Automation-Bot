@@ -1,6 +1,6 @@
 # Job-Automation-Bot
 
-# NOTE : This is no longer functional due to auto detection of bots in Glassdoor. 
+# NOTE : This is no longer functional due to policy changes for major job application portals.
 # Undetected-ChromeDriver can be used to avoid detection from websites like Glassdoor, which may otherwise block standard Selenium automation. However, this may be only used for educational purposes as it might lead to legal implications.
 
 
